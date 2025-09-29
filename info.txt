@@ -8,3 +8,4 @@ history > self explanatory for previous console commands
 pwd - displays current directory
 >>>>> git cheatsheet for kids
 codespaces start being inactive after a week
+you need to describe what happens in commits in changes when using the buttons
