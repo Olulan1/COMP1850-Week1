@@ -7,3 +7,4 @@ touch > create new file/folder in current dir assuming that it does not already 
 history > self explanatory for previous console commands
 pwd - displays current directory
 >>>>> git cheatsheet for kids
+codespaces start being inactive after a week
