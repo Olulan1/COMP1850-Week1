@@ -6,7 +6,10 @@ cd - > Prints out the current directory
 mkdir directory_name > new directory of name [directory_name]
 touch filename > create new file/folder in current dir with file name [filename] assuming that it does not already exist
 git status > tracks changes to the repository that are to committed and pushed next.
-git add A- > Stages all changes in the repository since the last commit.
+git add A- > Stages all changes in the repository since the last commit or staging of changes.
+git commit -m '[text]' > commits all changes that have been staged, only if a text message is provided at the end of it
+git push > pushes all committed changes to the main repository
+git pull > Idk yet
 
 
 rm -rf > complete destruction of a folder or file
